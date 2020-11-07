@@ -2,11 +2,11 @@
 <img src = "https://user-images.githubusercontent.com/30123691/98157739-c7a67200-1eff-11eb-9ee1-14f11e51ef42.png" align = "left" alt = "Jumper boi">
 </p>
 
-<h1 align = "center"> Kon'nichiwa 👋 </h1>
+<h1 align = "center"> Kon'nichiwa <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt = "Waving hand animation" width = "40px"> </h1>
 
 <p align = "center">
 Anirban here, a software developer in the making. <br>
-<a href = "https://anirban166.github.io/posts/">Technical Blog</a> • <a href="https://anirban166.github.io/skillset/">Skill Set</a> • <a href = "https://anirban166.github.io/music/">Playlist</a> • <a href = "https://anirban166.github.io//Gaming/">Gaming</a>
+<a href = "https://anirban166.github.io/posts/">Blog</a> • <a href="https://anirban166.github.io/skillset/">Skills</a> • <a href = "https://anirban166.github.io/music/">Playlist</a> • <a href = "https://anirban166.github.io//Gaming/">Gaming</a>
 </p>
 </p>
 
@@ -19,4 +19,4 @@ alt = "jumper boi2" height = "260">
 <a href = "https://summerofcode.withgoogle.com/projects/4887653356404736"><img height = "50" src = "https://img.shields.io/badge/--black?style=flat&logo=google" alt = "My Google Summer of Code Project Link"> <a href = "https://stackoverflow.com/users/11422223/anirban166?tab=profile"><img height = "50" src="https://img.shields.io/badge/--black?style=flat&logo=Stack%20Overflow" alt = "Stack Overflow Link"> <a href = "https://www.hackerrank.com/Anirban166"><img height = "50" src = "https://img.shields.io/badge/--black?style=flat&logo=HackerRank" alt = "HackerRank Link"> <a href = "https://www.linkedin.com/in/anirban166/"><img height = "50" src = "https://img.shields.io/badge/--black?style=flat&logo=LinkedIn" alt = "LinkedIn Link">
 </p>
 
-<!-- © Anirban 2020 -->
+<!-- © Anirban 2020 | Readme layout suited for conventional laptop/desktop screen sizes and smartphones on portrait mode. -->
