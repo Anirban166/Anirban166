@@ -21,7 +21,7 @@ alt = "jumper boi2" height = "260">
 Collaborator/Maintainer of:
 </p>
                    
-[![tdhock/directlabels](https://github-readme-stats.vercel.app/api/pin/?username=tdhock&repo=directlabels&theme=nightowl&hide_border=true&title_color=5bf59d)](https://github.com/tdhock/directlabels)
-[![TheAlgorithms/R](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=R&hide_border=true&title_color=5bf59d&theme=nightowl)](https://github.com/TheAlgorithms/R)
+[![tdhock/directlabels](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=tdhock&repo=directlabels&theme=nightowl&hide_border=true&title_color=5bf59d)](https://github.com/tdhock/directlabels)
+[![TheAlgorithms/R](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=TheAlgorithms&repo=R&hide_border=true&title_color=5bf59d&theme=nightowl)](https://github.com/TheAlgorithms/R)
 
 <!-- © Anirban 2020 | Readme layout suited for conventional laptop/desktop screen sizes and smartphones on portrait mode. -->
