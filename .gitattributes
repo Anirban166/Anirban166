@@ -1,0 +1,2 @@
+# Avoiding modification of line endings in markdown files:
+*.md -crlf
