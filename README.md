@@ -13,19 +13,15 @@
     </td>
     <td width = "50%" style = "border: none; vertical-align: top; text-align: center;">
       <div>
-        <a href="https://github.com/nasa/fprime">
-  
-  ![nasa/fprime](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=nasa&repo=fprime&hide_border=true&title_color=5bf59d&theme=nightowl)
-        </a>
-        <a href="https://github.com/Rdatatable/data.table">
-          ![Rdatatable/data.table](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=Rdatatable&repo=data.table&theme=nightowl&hide_border=true&title_color=5bf59d)
-        </a>
-        <a href="https://github.com/tdhock/directlabels">
-          ![tdhock/directlabels](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=tdhock&repo=directlabels&theme=nightowl&hide_border=true&title_color=5bf59d)
-        </a>
-        <a href="https://github.com/TheAlgorithms/R">
-          ![TheAlgorithms/R](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=TheAlgorithms&repo=R&hide_border=true&title_color=5bf59d&theme=nightowl)
-        </a> 
+
+  <a href="https://github.com/nasa/fprime"> ![nasa/fprime](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=nasa&repo=fprime&hide_border=true&title_color=5bf59d&theme=nightowl)
+  </a>
+  <a href="https://github.com/Rdatatable/data.table"> ![Rdatatable/data.table](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=Rdatatable&repo=data.table&theme=nightowl&hide_border=true&title_color=5bf59d)
+  </a>
+  <a href="https://github.com/tdhock/directlabels"> ![tdhock/directlabels](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=tdhock&repo=directlabels&theme=nightowl&hide_border=true&title_color=5bf59d)
+  </a>
+  <a href="https://github.com/TheAlgorithms/R"> ![TheAlgorithms/R](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=TheAlgorithms&repo=R&hide_border=true&title_color=5bf59d&theme=nightowl)
+  </a>
       </div>
     </td>
   </tr>
