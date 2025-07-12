@@ -7,12 +7,12 @@
 <p align = "center">Software engineer, former intern at <a href="https://www.jpl.nasa.gov/">NASA's Jet Propulsion Laboratory</a>.</p>
 
 <table style = "border-collapse: collapse; width: 100%;">
-  <tr>
-    <td width = "50%" style = "border: none; vertical-align: top;"> 
-      <img src = "https://github.com/Anirban166/Anirban166/blob/master/Illustrations/Me%20and%20my%20buddy.png" alt = "Ani and his Mega Latios" height = "100%">     
-    </td>
-    <td width = "50%" style = "border: none; vertical-align: top; text-align: center;">
-      <div>
+  <tr>
+    <td width = "50%" style = "border: none; vertical-align: top;"> 
+      <img src = "https://github.com/Anirban166/Anirban166/blob/master/Illustrations/Me%20and%20my%20buddy.png" alt = "Ani and his Mega Latios" width = "90%">     
+    </td>
+    <td width = "50%" style = "border: none; vertical-align: top; text-align: center;">
+      <div>
 
   <a href="https://github.com/nasa/fprime"> ![nasa/fprime](https://github-readme-stats-anirban166.vercel.app/api/pin/?username=nasa&repo=fprime&hide_border=true&title_color=5bf59d&theme=nightowl)
   </a>
